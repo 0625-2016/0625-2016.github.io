@@ -19,9 +19,8 @@ img{
 
 }
 body {
-  background-color:black;
-  /*background-repeat: no-repeat; */
-  /*background-image: url('http://seattlewatching.com/wp-content/uploads/2016/03/visitskagetvalley-image-dec.pass_.jpg');*/
+  background-repeat: no-repeat;
+  background-image: url('http://seattlewatching.com/wp-content/uploads/2016/03/visitskagetvalley-image-dec.pass_.jpg');
 }
 
 h1 {
@@ -30,12 +29,13 @@ h1 {
 h2 {
   color:red;
   font-size:28;
+  front-weight:bold;
 
 
 }
 body li {
   border:1px dotted black;
-  color:green;
+  color:white;
   font-size:20;
   list-style-type: none;
   border-left:-1px;
