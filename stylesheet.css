@@ -1,0 +1,43 @@
+
+
+/*h1 {
+  color:green;
+}
+body {
+   background-color:black;
+}
+p {
+  color:yellow;
+  border:2px solid yellow;
+}
+*/
+img{
+  padding:26px;
+  height: 400px;
+  width: 600px;
+  border:solid;
+
+}
+body {
+  background-color:black;
+  /*background-repeat: no-repeat; */
+  /*background-image: url('http://seattlewatching.com/wp-content/uploads/2016/03/visitskagetvalley-image-dec.pass_.jpg');*/
+}
+
+h1 {
+  color:pink;
+}
+h2 {
+  color:red;
+  font-size:28;
+
+
+}
+body li {
+  border:1px dotted black;
+  color:green;
+  font-size:20;
+  list-style-type: none;
+  border-left:-1px;
+
+}
